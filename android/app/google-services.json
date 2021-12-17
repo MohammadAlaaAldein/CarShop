@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060187201136",
+    "firebase_url": "https://cars-afe7f-default-rtdb.firebaseio.com",
+    "project_id": "cars-afe7f",
+    "storage_bucket": "cars-afe7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060187201136:android:acc5b14ef941c79331deb5",
+        "android_client_info": {
+          "package_name": "jo.wheel.car_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060187201136-o82vkrrebc5rrfd9kf5f492o3cqfv813.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBiUUKIZlH7J7e6HQg0Luz4Epf7xXH_00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060187201136-o82vkrrebc5rrfd9kf5f492o3cqfv813.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
